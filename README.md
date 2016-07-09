@@ -1,6 +1,6 @@
 # docker-tomcat7
 
 ## run
-```sh
-docker run -d -p 8080:8080 --name=tomcat7 tomcat7
+```bash
+docker run -d -p 8080:8080 --name=tomcat7 mirrored1976/docker-tomcat7
 ```
